@@ -1,8 +1,8 @@
 import os
-from aiogram.utils import executor
 from aiogram.dispatcher.filters.state import State, StatesGroup
+from aiogram.utils import executor
 from connection import dp
-from handlers import ai, responses, buttons, other
+from handlers import ai, buttons, other, responses
 
 
 class Form(StatesGroup):
