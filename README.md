@@ -4,8 +4,6 @@ This project is a Telegram bot that leverages the OpenAI's GPT-3 model to conduc
 
 ## Project Structure
 
-## Project Structure
-
 The Telegram bot project has the following directory and file structure:
 
 ```plaintext
