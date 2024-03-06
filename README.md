@@ -7,7 +7,7 @@ This project is a Telegram bot that leverages the OpenAI's GPT-3 model to conduc
 The Telegram bot project has the following directory and file structure:
 
 ```plaintext
-Telegram/
+telegram-bot/
 ├── handlers/             # Handlers for different bot commands and conversation states
 │   ├── __init__.py       # Initializes the handlers package
 │   ├── ai.py             # AI functionalities, including conversations powered by GPT-3
